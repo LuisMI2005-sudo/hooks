@@ -25,3 +25,5 @@ Después de corregir, ejecuta:
 `cd proyecto-demo && python -m unittest discover -s tests -v`
 
 Responde con una lista: bug → archivo:línea → qué cambiaste y por qué. Al final, el resultado de las pruebas.
+
+OLAAAAAA
