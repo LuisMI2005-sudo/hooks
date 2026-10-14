@@ -27,3 +27,4 @@ Después de corregir, ejecuta:
 Responde con una lista: bug → archivo:línea → qué cambiaste y por qué. Al final, el resultado de las pruebas.
 
 OLAAAAAA
+Ayiossss
